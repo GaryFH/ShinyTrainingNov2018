@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541024767389.000,
+    "dirty" : true,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7DFB7B2",
+    "lastKnownWriteTime" : 1541024788,
+    "last_content_update" : 1541024884405,
+    "path" : "C:/Users/gary/Desktop/test/bitbucket/ShinyTrainingNov2018/WorkStart.R",
+    "project_path" : "WorkStart.R",
+    "properties" : {
+        "cursorPosition" : "5,136",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
